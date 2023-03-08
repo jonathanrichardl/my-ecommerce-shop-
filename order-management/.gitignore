@@ -17,3 +17,4 @@ coverage
 scripts/*/node_modules
 .vscode/
 .scannerwork
+.env
